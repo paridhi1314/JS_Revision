@@ -4,6 +4,8 @@ h2{
 
 .container-1{
     border: 1px solid black;
+     width: 75%;
+    margin: 0 auto;
 }
 
 .flex-box-container-1{
